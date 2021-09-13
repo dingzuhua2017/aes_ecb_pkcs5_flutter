@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'dart:async';
 
 import 'package:flutter/services.dart';
-import 'package:flutter_aes_ecb_pkcs5/flutter_aes_ecb_pkcs5.dart';
+import 'package:aes_ecb_pkcs5_flutter/aes_ecb_pkcs5_flutter.dart';
 
 void main() => runApp(MyApp());
 

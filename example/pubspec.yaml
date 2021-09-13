@@ -18,7 +18,7 @@ dev_dependencies:
     sdk: flutter
 
 #  flutter_aes_ecb_pkcs5: ^0.1.1
-  flutter_aes_ecb_pkcs5:
+  aes_ecb_pkcs5_flutter:
     path: ../
 
 # For information on the generic Dart part of this file, see the

@@ -1,6 +1,6 @@
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:aes_ecb_pkcs5_flutter/flutter_aes_ecb_pkcs5.dart';
+import 'package:aes_ecb_pkcs5_flutter/aes_ecb_pkcs5_flutter.dart';
 
 void main() {
   const MethodChannel channel = MethodChannel('flutter_aes_ecb_pkcs5');
